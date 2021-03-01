@@ -39,4 +39,4 @@ user_location = get_location()
 output_string = create_output_sentence(user_name, user_location)
 
 # print the output to screen
-print(output_string)
+print_to_screen(output_string)
